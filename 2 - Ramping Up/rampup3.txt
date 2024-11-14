@@ -1,0 +1,5 @@
+$ git checkout HEAD^
+
+$ git branch -f main C6
+
+$ git branch -f bugFix HEAD^
