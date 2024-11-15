@@ -1,0 +1,3 @@
+$ git rebase -i main
+
+$ git rebase bugFix main
