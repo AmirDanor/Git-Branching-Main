@@ -1,0 +1,7 @@
+$ git checkout main
+
+$ git cherry-pick newImage
+
+$ git commit --amend
+
+$ git cherry-pick caption

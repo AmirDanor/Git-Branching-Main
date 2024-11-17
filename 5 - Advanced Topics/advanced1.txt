@@ -1,0 +1,7 @@
+$ git rebase main bugFix
+
+$ git rebase HEAD side
+
+$ git rebase HEAD another
+
+$ git rebase HEAD main
